@@ -1,1 +1,7 @@
 flask
+flask-cors
+openai
+razorpay
+pymupdf
+scikit-learn
+python-docx
