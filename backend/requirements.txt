@@ -5,3 +5,4 @@ razorpay
 pymupdf
 scikit-learn
 python-docx
+gunicorn
