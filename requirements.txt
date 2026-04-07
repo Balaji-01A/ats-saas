@@ -8,4 +8,5 @@ mypy==1.5.1
 Werkzeug==2.3.7
 pytest==7.4.2
 pytest-flask==1.2.0
-
+anyio==4.13.0
+annotated-types==0.7.0
